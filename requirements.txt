@@ -1,0 +1,7 @@
+gitdb==4.0.12
+GitPython==3.1.45
+numpy==1.26.4
+pandas==2.3.2
+python-dateutil==2.9.0.post0
+scikit-learn==1.7.2
+streamlit==1.49.1
