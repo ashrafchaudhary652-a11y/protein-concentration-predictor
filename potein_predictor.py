@@ -26,7 +26,7 @@ st.title("Protein Concentration Predictor")
 st.write("Enter protein amount and eluate volume (you can include decimals):")
 
 protein_input = st.number_input(
-    "Protein amount (grams)",
+    " Amount of protein loaded on column (grams)",
     value=600.0,
     min_value=0.0,
     step=0.1,
